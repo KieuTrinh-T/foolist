@@ -8,6 +8,12 @@
      -webkit-font-smoothing: antialiased;
  }
  
+ * {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+ 
  main {
      margin-bottom: 20px;
  }
@@ -80,4 +86,121 @@
      padding: 0;
      margin: 0;
  }
+ 
+ header,
+ footer {
+     height: 10vh;
+     background: #000000;
+ }
+ 
+ footer {
+     border-top: #fffefe 1px solid;
+     padding-top: 2%;
+ }
  /*---------------------
+
+ /* ------header */
+ 
+ .main {
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     height: 100%;
+ }
+ 
+ .logo {
+     width: 25%;
+     height: 100%;
+     display: flex;
+     flex-direction: row;
+     padding-left: 2%;
+     color: #fffefe;
+ }
+ 
+ .icon-div {
+     width: 25%;
+     padding-right: 10%;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-around;
+     align-items: stretch;
+     align-items: flex-end;
+ }
+ 
+ .menu {
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     align-items: flex-end;
+     width: 50%;
+ }
+ 
+ .logo img {
+     width: 30px;
+     height: auto;
+ }
+ 
+ .logo-text {
+     display: flex;
+     flex-direction: column;
+     justify-content: flex-end;
+     transform: translateY(30%);
+     margin-left: -10px;
+ }
+ 
+ .logo-text h3 {
+     font-family: 'Montserrat';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 22px;
+     line-height: 27px;
+     color: #FFFFFF;
+ }
+ 
+ .menu li a {
+     color: #ffffff;
+     font-family: 'Montserrat';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 16px;
+     line-height: 27px;
+     text-decoration: none;
+ }
+ 
+ .menu.footer li a {
+     font-weight: 500;
+     color: #F8A5C2;
+ }
+ 
+ .trade-mark {
+     font-family: 'Roboto';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 16px;
+     line-height: 24px;
+     /* identical to box height, or 100% */
+     text-align: center;
+     color: #FFFFFF;
+ }
+ 
+ @media screen and (max-width: 1000px) {
+     .logo {
+         width: 20%;
+     }
+     .icon-div {
+         width: 20%;
+     }
+     .menu {
+         width: 60%;
+     }
+     .logo-text {
+         font-size: 16px;
+     }
+     .logo img {
+         width: 50px;
+     }
+     .menu li a {
+         font-size: 14px;
+         font-weight: 500px;
+     }
+ }
