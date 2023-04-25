@@ -1,0 +1,142 @@
+[
+ {
+   "id": 1,
+   "term": "Branding",
+   "explaination": "Branding là quá trình xây dựng và quản lý hình ảnh, giá trị và danh tiếng của một sản phẩm, dịch vụ hoặc tổ chức. Nó bao gồm việc tạo ra một tên thương hiệu, logo, thông điệp và các yếu tố khác để tạo ra một ấn tượng tốt đẹp với khách hàng. Điều quan trọng trong branding là tạo ra một danh tiếng đáng tin cậy và độc đáo để thu hút khách hàng và giữ chân họ. Branding còn giúp tạo ra sự khác biệt giữa các sản phẩm và dịch vụ cạnh tranh, đồng thời tạo ra sự nhận diện thương hiệu dễ dàng cho khách hàng. Khi được thực hiện đúng cách, branding có thể tạo ra giá trị và trở thành một tài sản quan trọng cho doanh nghiệp."
+ },
+ {
+   "id": 2,
+   "term": "Logo",
+   "explaination": "Logo là biểu tượng đại diện cho một thương hiệu, sản phẩm hoặc tổ chức. Nó thường được thiết kế để tạo ra một ấn tượng đầu tiên với khách hàng và giúp tạo ra sự nhận diện thương hiệu dễ dàng. Logo thường được tạo ra bằng cách sử dụng các yếu tố thiết kế như hình ảnh, màu sắc, kiểu chữ và đồ họa. Một logo đẹp và độc đáo có thể giúp tăng tính nhận diện thương hiệu và tạo ra sự tin tưởng với khách hàng. Logo cũng là một phần quan trọng của chiến lược branding và marketing của một doanh nghiệp."
+ },
+ {
+   "id": 3,
+   "term": "Typography",
+   "explaination": "Typography là nghệ thuật và khoa học của việc thiết kế, sắp xếp và sử dụng kiểu chữ. Nó bao gồm việc chọn lựa và sắp xếp các ký tự, font chữ, kích thước, khoảng cách và màu sắc để tạo ra một bố cục chữ đẹp mắt và dễ đọc. Typography là một phần quan trọng của thiết kế đồ họa, quảng cáo và branding, vì nó có thể giúp tạo ra sự khác biệt và độc đáo cho một thương hiệu hoặc sản phẩm. Một thiết kế typography tốt có thể tăng tính chuyên nghiệp và giúp thu hút sự chú ý của khách hàng."
+ },
+ {
+   "id": 4,
+   "term": "Color scheme",
+   "explaination": "Color scheme là cách sắp xếp màu sắc trong thiết kế để tạo ra một bố cục hài hòa và thẩm mỹ. Nó bao gồm việc chọn lựa và sắp xếp các màu sắc để tạo ra một sự phối hợp hài hòa và thể hiện được tính cách và thông điệp của thương hiệu hoặc sản phẩm. Color scheme có thể bao gồm một hoặc nhiều màu sắc, tùy thuộc vào mục đích và phong cách thiết kế. Một color scheme tốt có thể tạo ra sự tương phản và sự tương tác giữa các màu sắc, giúp tăng tính thẩm mỹ và giá trị thương hiệu của sản phẩm."
+ },
+ {
+   "id": 5,
+   "term": "Layout",
+   "explaination": "Layout là cách sắp xếp các yếu tố trong thiết kế để tạo ra một bố cục hợp lý và dễ đọc. Nó bao gồm việc chọn lựa và sắp xếp các yếu tố như hình ảnh, văn bản, đồ họa và khoảng trống để tạo ra một bố cục thẩm mỹ và chức năng. Layout có thể được sử dụng trong nhiều lĩnh vực thiết kế, bao gồm thiết kế đồ họa, trang web, báo chí và quảng cáo. Một layout tốt có thể giúp tăng tính chuyên nghiệp và thu hút sự chú ý của khách hàng, đồng thời giúp truyền tải thông điệp và nội dung một cách hiệu quả."
+ },
+ {
+   "id": 6,
+   "term": "Graphic design",
+   "explaination": "Graphic design là nghệ thuật và kỹ thuật sử dụng hình ảnh, màu sắc, văn bản và đồ họa để tạo ra các sản phẩm trực quan và thẩm mỹ. Nó bao gồm thiết kế logo, bộ nhận diện thương hiệu, bao bì, sách, trang web, quảng cáo và nhiều sản phẩm khác. Graphic design là một phần quan trọng của marketing và branding, vì nó có thể giúp tạo ra sự khác biệt và độc đáo cho một thương hiệu hoặc sản phẩm. Một thiết kế graphic tốt có thể tăng tính chuyên nghiệp và giúp thu hút sự chú ý của khách hàng."
+ },
+ {
+   "id": 7,
+   "term": "Web design",
+   "explaination": "Web design là quá trình tạo ra các trang web đẹp mắt, dễ sử dụng và chức năng. Nó bao gồm việc thiết kế giao diện, lựa chọn màu sắc, font chữ, hình ảnh và định dạng nội dung để tạo ra trang web thẩm mỹ và dễ đọc. Web design cũng liên quan đến việc xây dựng các tính năng và chức năng của trang web để đảm bảo trải nghiệm người dùng tốt nhất. Một thiết kế web tốt có thể giúp tăng tính chuyên nghiệp và thu hút sự chú ý của khách hàng, đồng thời giúp truyền tải thông điệp và nội dung một cách hiệu quả."
+ },
+ {
+   "id": 8,
+   "term": "User interface (UI)",
+   "explaination": "UI là viết tắt của User Interface, có nghĩa là giao diện người dùng. UI bao gồm tất cả các yếu tố mà người dùng tương tác với khi sử dụng một sản phẩm hoặc dịch vụ, chẳng hạn như các nút bấm, thanh trượt, hình ảnh và văn bản. Một UI tốt cần phải đáp ứng các tiêu chuẩn thiết kế, giúp người dùng dễ sử dụng và tạo ra trải nghiệm người dùng tốt nhất. UI cũng liên quan đến việc tạo ra các tính năng và chức năng để đảm bảo rằng sản phẩm hoặc dịch vụ được sử dụng một cách dễ dàng và hiệu quả."
+ },
+ {
+   "id": 9,
+   "term": "User experience (UX)",
+   "explaination": "UX là viết tắt của User Experience, có nghĩa là trải nghiệm người dùng. UX bao gồm tất cả các cảm nhận, cảm xúc và ý kiến của người dùng khi sử dụng một sản phẩm hoặc dịch vụ. Nó liên quan đến việc tạo ra trải nghiệm tốt nhất cho người dùng, từ khâu tìm kiếm, đăng ký, sử dụng đến thanh toán. Một UX tốt đáp ứng các yêu cầu của người dùng, giúp họ sử dụng sản phẩm hoặc dịch vụ một cách dễ dàng và hiệu quả. UX cũng liên quan đến việc tối ưu hóa trải nghiệm người dùng để tăng tính chuyên nghiệp và giúp tăng doanh số bán hàng."
+ },
+ {
+   "id": 10,
+   "term": "Wireframe",
+   "explaination": "Wireframe là một bản vẽ đơn giản, tường minh về cấu trúc và hình dạng của một sản phẩm hoặc trang web. Nó thường được sử dụng để hiển thị các thành phần cơ bản của giao diện người dùng, bao gồm vị trí của các nút bấm, thanh trượt, hình ảnh và văn bản. Wireframe giúp cho các nhà thiết kế và nhà phát triển có thể dễ dàng đánh giá và thay đổi cấu trúc của sản phẩm hoặc trang web một cách nhanh chóng và dễ dàng. Nó cũng giúp cho các nhà thiết kế có thể trình bày ý tưởng của mình cho khách hàng một cách rõ ràng và trực quan."
+ },
+ {
+   "id": 11,
+   "term": "Prototype",
+   "explaination": "Prototype là một phiên bản đầu tiên của sản phẩm hoặc ứng dụng, được tạo ra để kiểm tra và đánh giá tính năng, thiết kế và trải nghiệm người dùng. Prototype có thể được tạo ra bằng nhiều cách khác nhau, từ bản vẽ tay đến mô hình tương tác. Prototype giúp cho các nhà thiết kế và nhà phát triển có thể đánh giá và thử nghiệm sản phẩm một cách nhanh chóng và dễ dàng trước khi triển khai sản phẩm hoặc ứng dụng thực tế. Nó cũng giúp cho các nhà thiết kế có thể hiểu rõ hơn về nhu cầu của khách hàng và cải thiện sản phẩm trước khi đưa ra thị trường."
+ },
+ {
+   "id": 12,
+   "term": "Responsive design",
+   "explaination": "Responsive design là một phương pháp thiết kế web cho phép trang web thích ứng với các kích thước màn hình khác nhau của các thiết bị, bao gồm máy tính để bàn, điện thoại di động và máy tính bảng. Với responsive design, các thành phần của trang web được tối ưu hóa để hiển thị đúng cách trên mọi loại màn hình, giúp cho trải nghiệm người dùng được tốt hơn. Nó cũng giúp cho các nhà thiết kế và nhà phát triển có thể tối ưu hóa trang web của họ cho các thiết bị di động và tăng cường khả năng tương tác và tiện lợi cho người dùng."
+ },
+ {
+   "id": 13,
+   "term": "Print design",
+   "explaination": "Print design là một lĩnh vực thiết kế đồ họa chuyên dụng cho các sản phẩm in ấn, bao gồm các loại tài liệu như sách, tạp chí, báo, poster, tờ rơi, name card, bao bì sản phẩm và nhiều hơn nữa. Các nhà thiết kế print design phải có kiến thức về thiết kế, màu sắc, kiểu chữ, kỹ thuật in ấn và nhiều yếu tố khác để tạo ra sản phẩm in ấn chất lượng cao và thu hút sự chú ý của khách hàng. Print design là một phần quan trọng của marketing và quảng cáo, giúp cho các doanh nghiệp thu hút khách hàng và xây dựng thương hiệu của mình."
+ },
+ {
+   "id": 14,
+   "term": "Illustration",
+   "explaination": "Illustration là một phương pháp thể hiện ý tưởng hoặc thông điệp thông qua hình ảnh. Nó là một lĩnh vực nghệ thuật đồ họa, trong đó các họa sĩ tạo ra các hình ảnh để truyền tải thông điệp hoặc thể hiện một câu chuyện. Illustration được sử dụng trong nhiều lĩnh vực, bao gồm sách, tạp chí, quảng cáo, thiết kế đồ họa và nhiều hơn nữa. Các họa sĩ cần có khả năng vẽ tay hoặc sử dụng các công cụ thiết kế đồ họa để tạo ra các hình ảnh độc đáo và sáng tạo. Illustration giúp cho các thông điệp trở nên sinh động và thu hút sự chú ý của khách hàng."
+ },
+ {
+   "id": 15,
+   "term": "Animation",
+   "explaination": "Animation là quá trình tạo ra hình ảnh chuyển động thông qua việc liên tiếp hiển thị các hình ảnh tĩnh. Nó là một phương tiện truyền thông mạnh mẽ để truyền tải ý tưởng hoặc câu chuyện. Animation được sử dụng rộng rãi trong phim hoạt hình, trò chơi điện tử, quảng cáo, giáo dục và nhiều lĩnh vực khác. Các nhà sản xuất animation cần có kỹ năng vẽ tay, sử dụng các công cụ thiết kế đồ họa và hiểu biết về các kỹ thuật phim ảnh. Animation giúp cho các thông điệp trở nên sinh động và thu hút sự chú ý của khách hàng."
+ },
+ {
+   "id": 16,
+   "term": "Motion graphics",
+   "explaination": "Motion Graphic là một phương pháp tạo ra hình ảnh chuyển động thông qua việc kết hợp các yếu tố đồ họa và âm thanh. Nó được sử dụng rộng rãi trong quảng cáo, truyền thông, giáo dục và nhiều lĩnh vực khác. Các nhà sản xuất motion graphic cần có kỹ năng sử dụng các công cụ thiết kế đồ họa và hiểu biết về các kỹ thuật phim ảnh. Motion graphic giúp cho các thông điệp trở nên sinh động và thu hút sự chú ý của khách hàng. Nó cũng có thể tạo ra các hiệu ứng độc đáo và sáng tạo để truyền tải thông điệp một cách rõ ràng và hiệu quả."
+ },
+ {
+   "id": 17,
+   "term": "Visual identity",
+   "explaination": "Visual Identity là hình ảnh đại diện cho một thương hiệu hoặc doanh nghiệp, bao gồm các yếu tố như logo, màu sắc, kiểu chữ và hình ảnh. Nó giúp khách hàng nhận biết và nhớ lại thương hiệu một cách dễ dàng hơn. Visual Identity được sử dụng trong các tài liệu quảng cáo, trang web, bao bì sản phẩm và các tài liệu khác liên quan đến thương hiệu. Các nhà thiết kế Visual Identity cần có kỹ năng sáng tạo và hiểu biết về thiết kế đồ họa để tạo ra một hình ảnh thương hiệu độc đáo và thu hút sự chú ý của khách hàng."
+ },
+ {
+   "id": 18,
+   "term": "Marketing collateral",
+   "explaination": "Marketing collateral là tài liệu quảng cáo được sử dụng để giới thiệu sản phẩm hoặc dịch vụ của một doanh nghiệp. Đây có thể là các tài liệu như brochure, tờ rơi, catalogue, bài viết trên blog, video quảng cáo, hình ảnh, banner, v.v. Marketing collateral được thiết kế để truyền tải thông điệp của thương hiệu một cách rõ ràng và thu hút sự chú ý của khách hàng. Các nhà sản xuất marketing collateral cần có kỹ năng thiết kế đồ họa, viết nội dung và hiểu biết về thị trường để tạo ra các tài liệu quảng cáo hiệu quả và đáp ứng nhu cầu của khách hàng."
+ },
+ {
+   "id": 19,
+   "term": "Advertising",
+   "explaination": "Advertising là hoạt động quảng cáo để giới thiệu sản phẩm hoặc dịch vụ của một doanh nghiệp đến khách hàng tiềm năng. Đây là một phương tiện quan trọng để tạo ra nhận thức về thương hiệu, thu hút sự chú ý của khách hàng và tăng doanh số bán hàng. Các hình thức quảng cáo phổ biến bao gồm quảng cáo trên truyền hình, báo chí, radio, trang web và mạng xã hội. Các nhà quảng cáo cần có kỹ năng sáng tạo, tư duy chiến lược và hiểu biết về thị trường để tạo ra các chiến dịch quảng cáo hiệu quả và đáp ứng nhu cầu của khách hàng."
+ },
+ {
+   "id": 20,
+   "term": "Copywriting",
+   "explaination": "Copywriting là quá trình viết các bản sao quảng cáo để giới thiệu sản phẩm hoặc dịch vụ của một doanh nghiệp đến khách hàng tiềm năng. Nó là một phần quan trọng trong chiến lược tiếp thị và giúp tạo ra nhận thức về thương hiệu, thu hút sự chú ý của khách hàng và tăng doanh số bán hàng. Các bản sao quảng cáo có thể xuất hiện trên nhiều hình thức khác nhau, bao gồm truyền hình, báo chí, radio, trang web và mạng xã hội. Các nhà viết bản sao cần có kỹ năng sáng tạo, tư duy chiến lược và hiểu biết về thị trường để tạo ra các bản sao quảng cáo hiệu quả và đáp ứng nhu cầu của khách hàng."
+ },
+ {
+   "id": 21,
+   "term": "Content creation",
+   "explaination": "Content creation là quá trình tạo ra nội dung chất lượng và hấp dẫn để giới thiệu sản phẩm hoặc dịch vụ của một doanh nghiệp đến khách hàng tiềm năng. Nó bao gồm viết bài blog, tạo video, thiết kế đồ họa và các hình thức khác để giúp tạo ra nhận thức về thương hiệu, thu hút sự chú ý của khách hàng và tăng doanh số bán hàng. Các nhà sản xuất nội dung cần có kỹ năng sáng tạo, tư duy chiến lược và hiểu biết về thị trường để tạo ra các nội dung hiệu quả và đáp ứng nhu cầu của khách hàng."
+ },
+ {
+   "id": 22,
+   "term": "Content strategy",
+   "explaination": "Content strategy là quá trình lên kế hoạch và quản lý nội dung để đạt được các mục tiêu kinh doanh của một doanh nghiệp. Nó bao gồm định hướng nội dung, lên kế hoạch, tạo ra và quản lý nội dung để tạo ra nhận thức về thương hiệu, thu hút sự chú ý của khách hàng và tăng doanh số bán hàng. Các chiến lược nội dung cần phải được tạo ra dựa trên nghiên cứu thị trường, đối tượng khách hàng và các mục tiêu kinh doanh của doanh nghiệp. Các chiến lược này cần được cập nhật và điều chỉnh thường xuyên để đáp ứng nhu cầu của khách hàng và thị trường."
+ },
+ {
+   "id": 23,
+   "term": "Social media marketing",
+   "explaination": "Social media marketing là việc sử dụng các mạng xã hội để quảng bá sản phẩm hoặc dịch vụ của một doanh nghiệp. Nó bao gồm việc tạo nội dung chất lượng, tương tác với khách hàng tiềm năng và tăng tương tác với khách hàng hiện tại thông qua các nền tảng mạng xã hội như Facebook, Instagram, Twitter, LinkedIn và YouTube. Các chiến lược social media marketing cần được thiết kế dựa trên nghiên cứu đối tượng khách hàng và các mục tiêu kinh doanh của doanh nghiệp. Nó là một phương tiện hiệu quả để tăng tầm nhìn của thương hiệu, tăng doanh số bán hàng và tạo dựng lòng tin với khách hàng."
+ },
+ {
+   "id": 24,
+   "term": "Search engine optimization (SEO)",
+   "explaination": "Search Engine Optimization (SEO) là quá trình tối ưu hóa website để nó có thể xếp hạng cao trên các công cụ tìm kiếm như Google, Bing, Yahoo, v.v. Nó bao gồm việc sử dụng các kỹ thuật tối ưu hóa nội dung, tối ưu hóa cấu trúc website, tối ưu hóa từ khóa và tối ưu hóa trải nghiệm người dùng. SEO giúp tăng lượng truy cập trang web, tăng doanh số bán hàng và tăng nhận thức về thương hiệu. Các chiến lược SEO cần được thiết kế dựa trên nghiên cứu từ khóa và đối tượng khách hàng để đạt được hiệu quả tối đa."
+ },
+ {
+   "id": 25,
+   "term": "Pay-per-click (PPC) advertising",
+   "explaination": "Pay-per-click (PPC) advertising là một hình thức quảng cáo trực tuyến, trong đó quảng cáo được đặt trên các trang web hoặc kết quả tìm kiếm của các công cụ tìm kiếm như Google, Bing, Yahoo, v.v. Quảng cáo sẽ xuất hiện khi người dùng tìm kiếm các từ khóa liên quan đến sản phẩm hoặc dịch vụ được quảng cáo. Người quảng cáo sẽ chỉ phải trả tiền khi người dùng nhấp vào quảng cáo. PPC advertising giúp tăng lượng truy cập trang web, tăng doanh số bán hàng và tăng nhận thức về thương hiệu. Các chiến lược PPC cần được thiết kế dựa trên nghiên cứu từ khóa và đối tượng khách hàng để đạt được hiệu quả tối đa."
+ },
+ {
+   "id": 26,
+   "term": "Email marketing",
+   "explaination": "Email marketing là một hình thức tiếp thị trực tuyến, trong đó doanh nghiệp gửi email đến khách hàng hoặc người đăng ký để quảng bá sản phẩm hoặc dịch vụ của mình. Các email có thể chứa các thông tin khuyến mãi, thông tin sản phẩm mới, tin tức, v.v. Email marketing giúp tăng tương tác với khách hàng, tăng doanh số bán hàng và tăng nhận thức về thương hiệu. Tuy nhiên, các chiến lược email marketing cần được thiết kế sao cho phù hợp với đối tượng khách hàng, tránh gửi quá nhiều email gây phiền phức và đảm bảo tính chuyên nghiệp của nội dung."
+ },
+ {
+   "id": 27,
+   "term": "Analytics",
+   "explaination": "Analytics là quá trình thu thập, phân tích và hiểu được thông tin từ dữ liệu. Trong lĩnh vực kinh doanh, analytics thường được sử dụng để đo lường hiệu quả của các chiến lược tiếp thị và kinh doanh. Dữ liệu có thể được thu thập từ nhiều nguồn khác nhau, bao gồm các trang web, ứng dụng di động, mạng xã hội, v.v. Sau đó, các công cụ phân tích dữ liệu được sử dụng để phân tích và hiểu được các mô hình, xu hướng và thông tin quan trọng khác. Analytics giúp doanh nghiệp đưa ra quyết định thông minh, cải thiện hiệu quả kinh doanh và tăng cường sự cạnh tranh trên thị trường."
+ },
+ {
+   "id": 28,
+   "term": "Client management.",
+   "explaination": "Client management (quản lý khách hàng) là quá trình quản lý và tương tác với khách hàng của một doanh nghiệp. Quản lý khách hàng bao gồm việc thu thập thông tin khách hàng, xây dựng mối quan hệ, cung cấp dịch vụ hỗ trợ và giải quyết các vấn đề của khách hàng. Một hệ thống quản lý khách hàng hiệu quả có thể giúp doanh nghiệp tăng tính chuyên nghiệp, tăng khả năng giữ chân khách hàng và tăng doanh số bán hàng. Ngoài ra, quản lý khách hàng cũng giúp doanh nghiệp hiểu được nhu cầu của khách hàng và cải thiện sản phẩm hoặc dịch vụ của mình để đáp ứng nhu cầu đó."
+ }
+]

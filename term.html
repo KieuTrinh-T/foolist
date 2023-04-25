@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Foolist | Thuật ngữ</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+
+</head>
+
+<body>
+    <!-- //---Header---// -->
+    <header>
+        <div id="header">
+        </div>
+    </header>
+    <section class="section-term">
+        <div class="term-background">
+            <img id="rec15" src="img/Rectangle 15.png" alt="">
+            <img id="rec16" src="img/Rectangle 16.png" alt="">
+            <span id="term">Thuật ngữ mô tả</span>
+
+        </div>
+    </section>
+    <section class="section-term">
+        <div class="term-container" id="term-container">
+
+        </div>
+
+    </section>
+    <!-- //---Main---// -->
+
+    <!-- //---Footer---// -->
+    <footer>
+        <div id="footer">
+
+        </div>
+
+
+
+
+        <script>
+            $(function() {
+                $('#header').load('src/header.html');
+                $('#footer').load('src/footer.html');
+            });
+        </script>
+
+        <script>
+            var XMLHttp = new XMLHttpRequest();
+            var html = "";
+            var i;
+            var uri = "data/terms.json";
+            let array;
+            XMLHttp.onreadystatechange = function() {
+                if (this.readyState == 4 & this.status == 200) {
+                    array = JSON.parse(this.responseText);
+                    myFunction(array);
+                }
+            }
+            XMLHttp.open("GET", uri, true);
+            XMLHttp.send();
+
+            function myFunction(array) {
+                html = "";
+                for (i = 0; i < array.length; i++) {
+                    var sp = array;
+
+                    html += `<div class="term-item">
+                <button onClick=detail(${sp[i].id})>
+                    ${sp[i].term}
+                </button>
+                <p class="term-id" style="display: none;" id="term-${sp[i].id}">
+                    ${sp[i].explaination}
+                </p>
+            </div>`
+                }
+                document.getElementById("term-container").innerHTML = html;
+            }
+
+            function detail(id) {
+                var x = document.getElementById("term-" + id);
+                if (x.style.display === "none") {
+                    x.style.display = "block";
+                } else {
+                    x.style.display = "none";
+                }
+                var p = document.getElementsByClassName("term-id");
+                [].forEach.call(p, function(el) {
+                    if (el.id != "term-" + id) {
+                        el.style.display = "none";
+                    }
+                });
+
+            }
+        </script>
+
+</body>
+
+</html>
